@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "TMT",
+    "owner": "Me"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TestMe",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Me"
+  },
+  "location": {
+    "organisation": "vths",
+    "repo": "scripts",
+    "branch": "master",
+    "model": "TMT"
+  }
+}
